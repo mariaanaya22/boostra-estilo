@@ -1,0 +1,26 @@
+
+.justify-content-between {
+    justify-content: space-between} 
+.img-fluidd {
+        max-width: 20%;
+        height: auto;
+      }
+.centrar{
+    text-align: center;
+}
+.logo{
+    width: 20%;
+}
+.icono{
+    width: 20%;
+}
+.noticia{
+    height: 100%;
+}
+
+.spacess{
+    justify-content: space-around;
+}
+.lado{
+    justify-content: left;
+}

@@ -1,0 +1,43 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
+}
+
+
+#menu a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
+#menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-inner{
+    max-height: 30rem;
+
+}
+
+.carousel-item img {
+    width: 100%; /* La imagen ocupará el 100% del ancho del contenedor */
+    height: auto;
+    object-fit: cover;}
+ 
+    @media (min-width: 1200px)  {
+        .carousel-item img {
+          height: 100%; /* La imagen ocupará el 100% de la altura del contenedor */
+          width: auto; }
+        }
+
+@media (max-width:768px){
+    #intro{
+        width: 90% !important;
+    }
+}
+
+.servivio-fila{
+    width: 100% !important;
+    text-align: center;
+}

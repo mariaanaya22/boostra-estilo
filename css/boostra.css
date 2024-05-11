@@ -1,0 +1,16 @@
+ body{
+    background-color: rgba(179, 113, 209, 0.582);
+ }
+.imagenes{
+max-height: 50rem;
+max-width: 70rem;
+margin-left: 10%;
+
+}
+.tarjetas{
+    margin-top: 10px;
+    display: flex;
+  }
+
+
+
